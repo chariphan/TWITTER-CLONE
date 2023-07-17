@@ -1,0 +1,3 @@
+# TWITTER-CLONE
+
+you should to install VITE ,VUE JS and TAILWIND BEFORE START THIS PROJECT
